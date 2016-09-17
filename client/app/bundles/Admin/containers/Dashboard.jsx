@@ -1,6 +1,5 @@
 import React from 'react'
 import { Router, Route, Link, browserHistory } from 'react-router'
-
 import HeaderBox from './HeaderBox'
 import FooterBox from './FooterBox'
 import Container from './Container'
